@@ -1,2 +1,2 @@
 # babystrikesback
-A simple version of the classic Alien Invasion game built using PyGame
+A baby themed version of the classic Alien Invasion game built using PyGame
